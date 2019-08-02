@@ -1,14 +1,3 @@
 {
-  "streams": [
-    {
-      "title": "s1",
-      "description": "asd",
-      "id": 1
-    },
-    {
-      "title": "123",
-      "description": "asd",
-      "id": 2
-    }
-  ]
+  "streams": []
 }
